@@ -2,6 +2,9 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.2",
-    "nodemon": "^2.0.22"
+    "http2": "^3.3.7",
+    "nodemon": "^2.0.22",
+    "openssl": "^2.0.0",
+    "spdy": "^4.0.2"
   }
 }
